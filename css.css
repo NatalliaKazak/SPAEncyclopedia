@@ -1,0 +1,19 @@
+body {
+  padding: 30px;
+}
+img {
+  width:250px;
+  height: 150px;
+   float:left; /* Выравнивание по левому краю */
+  margin: 35px 15px 15px 0; /* Отступы вокруг картинки */
+}
+h2, h3 {
+  text-align: center;
+}
+input[type="button"]{
+  width: 150px;
+  text-align: center;
+}
+#Menu2BTN {
+margin-left: 40px;
+}
